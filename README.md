@@ -32,7 +32,7 @@ The following namespaces have been provided:
 - [ ] Readline
 - [ ] REPL
 - [ ] Stream
-- [ ] String Decoder
+- [x] String Decoder
 - [ ] Timers
 - [ ] TLS/SSL
 - [ ] Tracing
