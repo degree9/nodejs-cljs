@@ -4,7 +4,7 @@
 Node.js API integration with ClojureScript. This library wraps the native javascript calls with a clojurescript function and converts incoming clj data structures to javascript. We are attempting to match the `v7.10.0` api.
 
 The following namespaces have been provided:
-- [ ] Assertion Testing
+- [x] Assertion Testing
 - [ ] Buffer
 - [ ] C/C++ Addons
 - [ ] C/C++ Addons - N-API
@@ -41,6 +41,6 @@ The following namespaces have been provided:
 - [ ] UDP/Datagram
 - [ ] URL
 - [ ] Utilities
-- [ ] V8
+- [x] V8
 - [ ] VM
 - [ ] ZLIB
