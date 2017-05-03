@@ -28,7 +28,7 @@ The following namespaces have been provided:
 - [x] OS
 - [x] Path
 - [ ] Process
-- [ ] Query Strings
+- [x] Query Strings
 - [ ] Readline
 - [ ] REPL
 - [ ] Stream
