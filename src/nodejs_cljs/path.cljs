@@ -1,5 +1,6 @@
 (ns nodejs-cljs.path
-  (:require [cljs.nodejs :as node]))
+  (:require [cljs.nodejs :as node]
+            [goog.object :as obj]))
 
 (def path (node/require "path"))
 

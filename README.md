@@ -25,10 +25,9 @@ The following namespaces have been provided:
 - [ ] HTTPS
 - [ ] Modules
 - [ ] Net
-- [ ] OS
-- [ ] Path
+- [x] OS
+- [x] Path
 - [ ] Process
-- [ ] Punycode
 - [ ] Query Strings
 - [ ] Readline
 - [ ] REPL
